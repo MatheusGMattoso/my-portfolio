@@ -1,10 +1,12 @@
 import { useState } from 'react'
 
+import Menu from './assets/Components/Menu'
+
 const App = () => {
 
   return (
-    <div>
-      App
+    <div className='font-poppins'>
+      <Menu />
     </div>
   )
 }
