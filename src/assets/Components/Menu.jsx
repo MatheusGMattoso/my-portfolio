@@ -2,7 +2,7 @@ import React from 'react'
 
 const Menu = () => {
   return (
-    <div className='h-16 bg-neutral-800'>
+    <div className='h-16 w-screen bg-neutral-800 fixed'>
       <div className="menu h-full flex items-center justify-between font-bold">
         <h1 className='text-purple-400 ml-10 text-2xl'>Mattoso</h1>
         <div className="lista">
